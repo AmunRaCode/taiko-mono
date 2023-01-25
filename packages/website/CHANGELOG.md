@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/taikoxyz/taiko-mono/compare/website-v0.1.0...website-v0.1.1) (2023-01-25)
+
+
+### Bug Fixes
+
+* **website:** fix issue with white logo text and light mode ([#13019](https://github.com/taikoxyz/taiko-mono/issues/13019)) ([8c166fa](https://github.com/taikoxyz/taiko-mono/commit/8c166fa1a1c6258cb91fd978cf4f4aa33ef2b147))
+
 ## [0.1.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.0.1...website-v0.1.0) (2023-01-19)
 
 
